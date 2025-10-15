@@ -1,0 +1,6 @@
+# Файлы базы данных Sakila
+sakila-db.zip
+sakila-db/
+*.sql
+*.tmp
+*.log
